@@ -448,6 +448,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 ### Utilities
 * [Place it](https://placeit.net/)
 * [Linkpack](https://linkpack.io)
+* [MathCalculator](https://mathcalculator.org/) - Free online math calculators (104+) with step-by-step solutions, multi-language support, and embeddable widgets for classroom use.
 * [Quotes Cover](https://quotescover.com)
 
 ### Video Authoring/Editing
